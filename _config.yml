@@ -1,1 +1,25 @@
+# Basic Information 
+title: Yewon Lee
+position: M.Sc. Student
+affiliation: University of Toronto
+email: yewonlee (at) cs.toronto.edu
+
+# Search Engine Optimization (SEO)
+# The following information is used to improve the website traffic from search engines, e.g., Google.
+#keywords: minimal academic
+#description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+#canonical: https://minimal-light.yyliu.net/
+
+# Links 
+# If you don't need one of them, you may delete the corresponding line.
+#google_scholar: https://scholar.google.com/
+github_link: https://github.com/yewon-lee
+linkedin: https://www.linkedin.com/in/leeyewon/
+
+# Images (e.g., your profile picture and your website's favicon) 
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+#avatar: ./assets/img/avatar.png
+#favicon: ./assets/img/favicon.png
+#favicon_dark: ./assets/img/favicon-dark.png
+
 remote_theme: yaoyao-liu/minimal-light
