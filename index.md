@@ -13,3 +13,25 @@ Prior to starting my M.Sc., I completed my B.A.Sc. in [Engineering Science](http
 - [July 2023] Selected to attend Robotics: Science and Systems 2023 as an [Inclusion Fellow](https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/program)
 - [July 2023] Received the Ontario Graduate Scholarship
 
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;"></temp></h2>
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://arxiv.org/pdf/2310.01775.pdf">STAMP: Differentiable Task and Motion Planning via Stein Variational Gradient Descent </a></div>
+      <div class="author"><strong>Yewon Lee</strong>, Philip Huang, Krishna Murthy Jatavallabhula, Andrew Z. Li, Fabian Damken, Eric Heiden, Kevin Smith, Derek Nowrouzezahrai, Fabio Ramos, Florian Shkurti </div>
+      <div class="periodical"><em>Conference on Robot Learning <strong>(CoRL)</strong>, Learning Effective Abstractions for Planning Workshop, 2023.</em>
+      </div>
+    <div class="links">
+      <a href="https://openreview.net/forum?id=jtxPRTTgx1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://drive.google.com/file/d/1BAc1qalsh1JuERrc7yWq3H7i0NmiB881/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+    </div>
+  </div>
+</div>
+</li>
+  
+</ol>
+</div>
