@@ -19,7 +19,10 @@ Prior to starting my M.Sc., I completed my B.A.Sc. in [Engineering Science](http
 <ol class="bibliography">
 <li>
 <div class="pub-row">
-  
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mog.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge"></abbr>
+  </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2310.01775.pdf">STAMP: Differentiable Task and Motion Planning via Stein Variational Gradient Descent </a></div>
       <div class="author"><strong>Yewon Lee</strong>, Philip Huang, Krishna Murthy Jatavallabhula, Andrew Z. Li, Fabian Damken, Eric Heiden, Kevin Smith, Derek Nowrouzezahrai, Fabio Ramos, Florian Shkurti </div>
