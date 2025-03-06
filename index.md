@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at the Paul G. Allen School of Computer Science and Engineering, University of Washington. I am advised by Prof. [Siddhartha Srinivasa](https://goodrobot.ai/) at the [Personal Robotics Lab](https://personalrobotics.cs.washington.edu/). My research interests centers around learning for robot manipulation, particularly in long-horizon settings and around humans. 
+I am a Ph.D. student at the Paul G. Allen School of Computer Science and Engineering, University of Washington. I am advised by Prof. [Siddhartha Srinivasa](https://goodrobot.ai/) at the [Personal Robotics Lab](https://personalrobotics.cs.washington.edu/). My research interests center around learning for robot manipulation, particularly in long-horizon settings and around humans. 
 
 Prior to my Ph.D., I obtained a Master's in Computer Science at the University of Toronto, where I was advised by Prof. [Florian Shkurti](http://www.cs.toronto.edu/~florian/) at the [Robot Vision and Learning Lab](https://rvl.cs.toronto.edu/#/) and collaborated with Prof. [Fabio Ramos](https://fabioramos.github.io/Home.html) at NVIDIA. My Master's thesis was on differentiable task and motion planning (TAMP). Prior to that, I completed my bachelor's in [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) at the University of Toronto. During my undergrad, I interned at Epson's Robotics R&D team researching computer vision algorithms for robot manipulation.
 
@@ -23,12 +23,12 @@ I have been honored to receive the [Google DeepMind Fellowship](https://www.deep
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/real_pusher.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/stamp.png" class="teaser img-fluid z-depth-1">
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2310.01775.pdf">STAMP: Differentiable Task and Motion Planning via Stein Variational Gradient Descent </a></div>
       <div class="author"><strong>Yewon Lee</strong>, Andrew Z. Li, Philip Huang, Eric Heiden, Krishna Murthy Jatavallabhula, Fabian Damken, Kevin Smith, Derek Nowrouzezahrai, Fabio Ramos, Florian Shkurti </div>
-      <div class="periodical"><em>Under Review at IEEE Robot Automation Letters <strong>(RAL)</strong>.</em>
+      <div class="periodical"><em>Under Review at IEEE Robotics and Automation Letters <strong>(RA-L)</strong>.</em>
       <div class="periodical"><em>Conference on Robot Learning <strong>(CoRL)</strong>, Learning Effective Abstractions for Planning Workshop, 2023.</em>
       </div>
     <div class="links">
