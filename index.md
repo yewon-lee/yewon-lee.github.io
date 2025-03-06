@@ -25,7 +25,7 @@ I have been honored to receive the [Google DeepMind Fellowship](https://www.deep
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/stamp.png" class="teaser img-fluid z-depth-1">
   </div>
-  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+  <div id="peng2021copo" class="col-sm-9" style="padding-right: 15px; padding-left: 20px;">
       <div class="title"><a href="https://arxiv.org/pdf/2310.01775.pdf">STAMP: Differentiable Task and Motion Planning via Stein Variational Gradient Descent </a></div>
       <div class="author"><strong>Yewon Lee</strong>, Andrew Z. Li, Philip Huang, Eric Heiden, Krishna Murthy Jatavallabhula, Fabian Damken, Kevin Smith, Derek Nowrouzezahrai, Fabio Ramos, Florian Shkurti </div>
       <div class="periodical">
