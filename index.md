@@ -11,6 +11,7 @@ Prior to my Ph.D., I obtained a Master's in Computer Science at the University o
 I have been honored to receive the [Google DeepMind Fellowship](https://www.deepmind.com/education), [NSERC Canada Graduate Scholarship (Master's)](https://www.nserc-crsng.gc.ca/students-etudiants/pg-cs/cgsm-bescm_eng.asp), and [Ontario Graduate Scholarship](https://osap.gov.on.ca/OSAPPortal/en/A-ZListofAid/PRDR019245.html) for graduate studies. 
 
 ## News
+- [March 2025] Our work on differentiable task and motion planning ([STAMP](https://rvl.cs.toronto.edu/stamp/)) has been accepted to RA-L 2025!
 - [April 2024] Accepted my Ph.D. offer at the University of Washington. 
 - [October 2023] My workshop paper on Differentiable TAMP was accepted to the [LEAP Workshop](https://leap-workshop.github.io) at CoRL 2023!
 - [July 2023] Selected to attend Robotics: Science and Systems 2023 as an [Inclusion Fellow](https://sites.google.com/seas.upenn.edu/inclusion-rss-2023/program).
@@ -32,7 +33,7 @@ I have been honored to receive the [Google DeepMind Fellowship](https://www.deep
             <strong>Yewon Lee</strong>, Andrew Z. Li, Philip Huang, Eric Heiden, Krishna Murthy Jatavallabhula, Fabian Damken, Kevin Smith, Derek Nowrouzezahrai, Fabio Ramos, Florian Shkurti
           </div>
           <div class="periodical">
-            <em>Under Review at IEEE Robotics and Automation Letters <strong>(RA-L)</strong>.</em>
+            <em>To Appear in IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.</em>
           </div>
           <div class="periodical">
             <em>Conference on Robot Learning <strong>(CoRL)</strong>, Learning Effective Abstractions for Planning Workshop, 2023.</em>
