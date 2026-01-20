@@ -33,7 +33,7 @@ I am gratefully supported by the [NSERC Canada Graduate Scholarship - Doctoral](
             <strong>Yewon Lee</strong>, Andrew Z. Li, Philip Huang, Eric Heiden, Krishna Murthy Jatavallabhula, Fabian Damken, Kevin Smith, Derek Nowrouzezahrai, Fabio Ramos, Florian Shkurti
           </div>
           <div class="periodical">
-            <em>To Appear in IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.</em>
+            <em>IEEE Robotics and Automation Letters <strong>(RA-L)</strong>, 2025.</em>
           </div>
           <div class="periodical">
             <em>Conference on Robot Learning <strong>(CoRL)</strong>, Learning Effective Abstractions for Planning Workshop, 2023.</em>
@@ -42,7 +42,7 @@ I am gratefully supported by the [NSERC Canada Graduate Scholarship - Doctoral](
             <a href="https://rvl.cs.toronto.edu/stamp/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Website</a>
             <a href="https://arxiv.org/abs/2310.01775" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">arXiv</a>
             <a href="https://www.youtube.com/watch?v=FuFGdixlSnM" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
-            <a href="https://drive.google.com/file/d/1BAc1qalsh1JuERrc7yWq3H7i0NmiB881/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+            <a href="https://drive.google.com/file/d/1awpbhYfLm3xTT0cGSrv5hBtv4_1-UL5d/view?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
           </div>
         </div> <!-- Closes col-sm-9 -->
       </div> <!-- Closes pub-row -->
